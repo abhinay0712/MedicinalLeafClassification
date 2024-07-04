@@ -22,6 +22,13 @@ Additional information related to the project:
 - Algorithm descriptions
 - Additional resources
 
+###Dependency
+Python 3.6
+
+PyTorch (torch=1.0.1, torchtext=0.4.0, torchvision=0.4.0)
+
+Utilities (Skopt, sklearn, numpy, Zipfile, Pandas, Pickel)
+
 
 
 ### Badges
