@@ -7,8 +7,7 @@ This project aimed to develop a novel and accurate model for classifying tree le
 
 ### Acknowledgements
 We would like to thank the following individuals and organizations for their support and contributions:
-- [Name] for providing the dataset
-- [Organization] for funding and resources
+- [KAGGEL] for providing the dataset
 - [Community] for helpful discussions and feedback
 
 ### API Reference
